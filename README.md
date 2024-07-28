@@ -40,7 +40,7 @@ The dataset used for training the models was obtained from Kaggle. It includes t
 1. Clone this repository:
     ```bash
     git clone https://github.com/RiyanBhargava/ML_Project_2_Medical_Insurance_Cost_Predictor.git
-    cd medical-insurance-cost-prediction
+    cd ML_Project_2_Medical_Insurance_Cost_Predictor
     ```
 
 2. Create a virtual environment and activate it:
@@ -56,7 +56,7 @@ The dataset used for training the models was obtained from Kaggle. It includes t
 
 4. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run medical_insurance_webapp.py
     ```
 
 ## Usage
