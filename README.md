@@ -51,7 +51,7 @@ The dataset used for training the models was obtained from Kaggle. It includes t
 
 3. Install the required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
     ```
 
 4. Run the Streamlit app:
